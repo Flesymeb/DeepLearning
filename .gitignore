@@ -1,0 +1,25 @@
+# IDE 配置文件
+**/.idea/
+.idea/
+**/.vscode/
+
+# Python 缓存文件
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 临时文件
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+
+
+# 环境文件
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# 系统文件
+.DS_Store
+Thumbs.db
